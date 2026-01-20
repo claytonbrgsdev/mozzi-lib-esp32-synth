@@ -1,0 +1,38 @@
+# Arduino/ESP32
+*.hex
+*.elf
+*.bin
+*.eep
+*.d
+*.o
+*.a
+*.su
+*.lst
+*.map
+*.sym
+*.lss
+*.elf
+*.hex
+*.bin
+*.eep
+*.d
+*.o
+*.a
+*.su
+*.lst
+*.map
+*.sym
+*.lss
+
+# Build directories
+build/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
